@@ -1,3 +1,3 @@
-beta1.2 esta version es una modificacion de Citra MMJ que mejora significativamente el rendimiento
-por ahora cuenta con algunos bugs y problemas, estare actualizando.
-si quieres saber como funciona te invito a ver el video en mi canal de youtube.
+Citra Dashy oficial.
+Citra Dashy es una modificación de Citra MMJ
+ ⚡está versión tiene como propósito optimizar al maximo el Citra MMj que ya conocemos.
