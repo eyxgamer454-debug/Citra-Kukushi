@@ -4,7 +4,7 @@ aprovecha hacks velocidad para forzar Emulación.
 
 fase beta
 
-activar hack 60 fps en cualquier juego para que funcione
+activar hack 60 fps en cualquier juego para que funcione,además bajar resolución X1 dentro del juego
 
 Juegos probados con respectivas mejoras de rendimiento
 
